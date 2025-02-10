@@ -3,7 +3,7 @@
 #define FRACTION_H
 
 #include <iostream>
-#include <math.h>
+#include <numeric>
 
   class Fraction{
         private:
